@@ -1,4 +1,6 @@
 ### Hi there 👋
+<img src="https://tryhackme-badges.s3.amazonaws.com/bruno.heineck.png" alt="TryHackMe">
+
 <!--
 **BrunooHeineck/BrunooHeineck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
